@@ -1,0 +1,7 @@
+{
+  "name": "Shah-ai-chatbot-for-creative-coding",
+  "description": "A futuristic, multimodal AI assistant that detects domains, generates interactive solutions, and adapts its interface using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
